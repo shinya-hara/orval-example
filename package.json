@@ -1,0 +1,15 @@
+{
+  "name": "orval-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gen:api": "orval --config ./src/api/orval.config.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "orval": "^7.3.0"
+  }
+}
